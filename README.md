@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @souhaibmk22
-- 👀 I’m interested in MOB APP DEV
-- 🌱 I’m currently learning FLUTTER
+- CTF player | backend-dev
 - 📫 How to reach me https://www.linkedin.com/in/belmaksene-souhaib-0690aa28a/?originalSubdomain=dz
 
 <!---
