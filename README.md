@@ -27,7 +27,7 @@ Je suis actuellement **étudiant en troisième année du cycle ingénieur en inf
 
 ## 📫 Me contacter  
 📧 **Email:** [s.belmaksene@esi-sba.dz](mailto:s.belmaksene@esi-sba.dz)  
-🌍 **LinkedIn:** [linkedin.com/in/belmaksene-souhaib]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/belmaksene-souhaib-0690aa28a/?originalSubdomain=dz))  
+🌍 **LinkedIn:** https://www.linkedin.com/in/belmaksene-souhaib-0690aa28a/?originalSubdomain=dz  
 
 
 <!---
