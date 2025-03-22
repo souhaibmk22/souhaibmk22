@@ -6,7 +6,7 @@ Voici un README en français avec l'ajout de ton statut d'étudiant en troisièm
 
 🎓 **Étudiant en troisième année en informatique** à l'**ESI Sidi Bel Abbès**  
 🔍 Passionné par **la cybersécurité, la science des données et l’ingénierie logicielle**  
-🏆 **Joueur de CTF | Participant à des hackathons | Contributeur open source**  
+🏆 **Joueur de CTF | Contributeur open source**  
 
 ## 🚀 À propos de moi  
 Je suis actuellement **étudiant en troisième année du cycle ingénieur en informatique** à l’**École Nationale Supérieure d’Informatique (ESI-SBA)**. Je m’intéresse particulièrement aux **systèmes distribués, à l’exploitation des données, à l’intelligence artificielle et à la cybersécurité**. Mon expérience comprend :  
