@@ -1,6 +1,3 @@
-Voici un README en français avec l'ajout de ton statut d'étudiant en troisième année :  
-
----
 
 # 👋 Salut, je suis **Belmaksene Souhaib**  
 
