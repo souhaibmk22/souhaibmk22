@@ -1,6 +1,34 @@
-- 👋 Hi, I’m @souhaibmk22
-- CTF player | backend-dev
-- 📫 How to reach me https://www.linkedin.com/in/belmaksene-souhaib-0690aa28a/?originalSubdomain=dz
+Voici un README en français avec l'ajout de ton statut d'étudiant en troisième année :  
+
+---
+
+# 👋 Salut, je suis **Belmaksene Souhaib**  
+
+🎓 **Étudiant en troisième année en informatique** à l'**ESI Sidi Bel Abbès**  
+🔍 Passionné par **la cybersécurité, la science des données et l’ingénierie logicielle**  
+🏆 **Joueur de CTF | Participant à des hackathons | Contributeur open source**  
+
+## 🚀 À propos de moi  
+Je suis actuellement **étudiant en troisième année du cycle ingénieur en informatique** à l’**École Nationale Supérieure d’Informatique (ESI-SBA)**. Je m’intéresse particulièrement aux **systèmes distribués, à l’exploitation des données, à l’intelligence artificielle et à la cybersécurité**. Mon expérience comprend :  
+- Développement d’applications **full-stack** avec **React, Node.js, Express et Prisma**  
+- Sécurisation des systèmes et participation à des **CTFs et hackathons**  
+- Analyse et gestion de données avec **Python et SQL**  
+- Administration des réseaux et virtualisation avec **Cisco & GNS3**  
+- Gestion de bases de données avec **MySQL, SQLite, et Prisma ORM**  
+
+## 💻 Compétences techniques  
+🔹 **Langages:** Python, JavaScript,pascal, C, SQL  
+🔹 **Développement Web:** React.js, Node.js, Express.js, TailwindCSS  
+🔹 **Bases de données:** MySQL, SQLite, PostgreSQL  
+🔹 **Réseaux & Sécurité:** Pentesting, Challenges CTF  
+🔹 **IA & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
+🔹 **Outils:** Git, GitHub, Docker, Linux  
+ 
+
+## 📫 Me contacter  
+📧 **Email:** [s.belmaksene@esi-sba.dz](mailto:s.belmaksene@esi-sba.dz)  
+🌍 **LinkedIn:** [linkedin.com/in/belmaksene-souhaib]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/belmaksene-souhaib-0690aa28a/?originalSubdomain=dz))  
+
 
 <!---
 souhaibmk22/souhaibmk22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
