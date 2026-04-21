@@ -10,7 +10,7 @@
 🏆 **Joueur de CTF | Contributeur open source**  
 
 ## 🚀 À propos de moi  
-Je suis actuellement **étudiant en troisième année du cycle ingénieur en informatique** à l’**École Nationale Supérieure d’Informatique (ESI-SBA)**. Je m’intéresse particulièrement aux **systèmes distribués, à l’exploitation des données, à l’intelligence artificielle et à la cybersécurité**. Mon expérience comprend :  
+Je suis actuellement **étudiant en cycle ingénieur en informatique** à l’**École Nationale Supérieure d’Informatique (ESI-SBA)**. Je m’intéresse particulièrement aux **systèmes distribués, à l’exploitation des données, à l’intelligence artificielle et à la cybersécurité**. Mon expérience comprend :  
 - Développement d’applications **full-stack** avec **React, Node.js, Express et Prisma**  
 - Sécurisation des systèmes et participation à des **CTFs et hackathons**  
 - Analyse et gestion de données avec **Python et SQL**  
