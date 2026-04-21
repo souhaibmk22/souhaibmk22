@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/74768f14-4708-4bc7-aca7-1f31321e718d)
 
 
-🎓 **Étudiant en troisième année en informatique** à l'**ESI Sidi Bel Abbès**  
+🎓 **Étudiant  en informatique** à l'**ESI Sidi Bel Abbès**  
 🔍 Passionné par **la cybersécurité, la science des données et l’ingénierie logicielle**  
 🏆 **Joueur de CTF | Contributeur open source**  
 
