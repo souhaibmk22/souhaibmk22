@@ -1,37 +1,35 @@
+# 👋 Salut, je suis **Souhaib Belmaksene**
 
-# 👋 Salut, je suis **Belmaksene Souhaib**  
+🎓 Étudiant en **5ᵉ année du cycle Ingénieur d'État en Informatique** à l'**École Supérieure en Informatique (ESI)** — spécialité *Systèmes d'Information et Web*
+🎯 En recherche d'un **stage de fin d'études à partir de janvier 2027**
+💻 Développeur **Back-end** passionné par les architectures web et les systèmes d'information
 
+## 🚀 À propos de moi
 
-![image](https://github.com/user-attachments/assets/74768f14-4708-4bc7-aca7-1f31321e718d)
+Actuellement **Développeur Backend chez Triyo Lab** (Symfony/PHP, à distance depuis la France), je conçois et maintiens des fonctionnalités serveur pour assurer la fiabilité et la performance de plateformes web. J'ai aussi été **Développeur Web chez HelpingHands** (WordPress, GiveWP) et **Stagiaire Développeur chez Algérie Télécom**, où j'ai contribué à des projets d'optimisation d'applications internes et d'intégration 5G.
 
+Je m'intéresse particulièrement au **développement full-stack**, à l'**architecture microservices** et au **DevOps**.
 
-🎓 **Étudiant  en informatique** à l'**ESI Sidi Bel Abbès**  
-🔍 Passionné par **la cybersécurité, la science des données et l’ingénierie logicielle**  
-🏆 **Joueur de CTF | Contributeur open source**  
+## 💻 Compétences techniques
 
-## 🚀 À propos de moi  
-Je suis actuellement **étudiant en cycle ingénieur en informatique** à l’**École Nationale Supérieure d’Informatique (ESI-SBA)**. Je m’intéresse particulièrement aux **systèmes distribués, à l’exploitation des données, à l’intelligence artificielle et à la cybersécurité**. Mon expérience comprend :  
-- Développement d’applications **full-stack** avec **React, Node.js, Express et Prisma**  
-- Sécurisation des systèmes et participation à des **CTFs et hackathons**  
-- Analyse et gestion de données avec **Python et SQL**  
-- Administration des réseaux et virtualisation avec **Cisco & GNS3**  
-- Gestion de bases de données avec **MySQL, SQLite, et Prisma ORM**  
+🔹 **Front-end:** HTML5, CSS3, JavaScript, React.js, Tailwind
+🔹 **Back-end:** Java, PHP, Python, C#
+🔹 **DevOps:** Docker, Kubernetes, Argo CD, Helm, CI/CD, GitOps
+🔹 **Bases de données:** MySQL, SQLite, PostgreSQL, MongoDB
+🔹 **Mobile & Outils:** Flutter, Git, GitHub, Trello, Agile
 
-## 💻 Compétences techniques  
-🔹 **Langages:** Python, JavaScript,pascal, C, SQL  
-🔹 **Développement Web:** React.js, Node.js, Express.js, TailwindCSS  
-🔹 **Bases de données:** MySQL, SQLite, PostgreSQL  
-🔹 **Réseaux & Sécurité:** Pentesting, Challenges CTF  
-🔹 **IA & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
-🔹 **Outils:** Git, GitHub, Docker, Linux  
- 
+## 🛠️ Quelques projets
 
-## 📫 Me contacter  
-📧 **Email:** [s.belmaksene@esi-sba.dz](mailto:s.belmaksene@esi-sba.dz)  
-🌍 **LinkedIn:** https://www.linkedin.com/in/belmaksene-souhaib-0690aa28a/?originalSubdomain=dz  
+- **Plateforme Salle de Sport** — architecture microservices (Spring Boot, Docker, Kubernetes, Kafka, JWT), API Gateway, CI/CD avec Argo CD
+- **Système de Gestion Scolaire** — back-end Node.js/Express avec authentification sécurisée (SQLite3, JWT)
+- **Towpal** — application mobile d'assistance automobile en Flutter avec géolocalisation et notifications Firebase
 
+## 🌐 Langues
 
-<!---
-souhaibmk22/souhaibmk22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Arabe (langue maternelle) · Français (TCF B2) · Anglais
+
+## 📫 Me contacter
+
+📧 **Email:** [s.belmaksene@esi-sba.dz](mailto:s.belmaksene@esi-sba.dz)
+🔗 **LinkedIn:** [belmaksene-souhaib](https://linkedin.com/in/belmaksene-souhaib)
+🌍 **Portfolio:** [souhaibportfolioo.netlify.app](https://souhaibportfolioo.netlify.app)
